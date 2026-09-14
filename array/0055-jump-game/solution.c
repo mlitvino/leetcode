@@ -1,4 +1,3 @@
-
 bool canJump(int* nums, int numsSize) {
     int right;
     int last;
@@ -15,4 +14,3 @@ bool canJump(int* nums, int numsSize) {
         return (true);
     return (false);
 }
-  
